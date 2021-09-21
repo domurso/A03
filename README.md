@@ -1,12 +1,13 @@
-<B>Branch</B>\n
-Clone\n
-Commit\n
-Fetch\n
-GIT\n
-Github\n
-Merge\n
-Merge Conflict\n
-Push\n
-Pull\n
-Remote\n
-Repository\n`
+<ol>
+<li>Clone</li>
+<li>Commit</li>
+<li>Fetch</li>
+<li>GIT</li>
+<li>Github</li>
+<li>Merge</li>
+<li>Merge Conflict</li>
+<li>Push</li>
+<li>Pull</li>
+<li>Remote</li>
+<li>Repository</li>
+</ol>
