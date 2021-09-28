@@ -1,3 +1,19 @@
+I didnt use webstorm as I just use my terminal for most of my coding
+but here is a definition
+WebStorm comes with many powerful tools to assure the high quality of your code base.
+
+Dozens of built-in inspections are enabled by default. These static code analysis tools help you find probable bugs, detect performance issues and improve the overall code structure right as you write the code. You can also use the integrated code quality tools: JSHint or JSLint.
+
+Inspections are available for all languages supported by WebStorm, including JavaScript, Node.js, HTML, CSS, Less, Sass, TypeScript, CoffeeScript and Dart.
+
+Built-in inspections help you detect errors and potential problems, from obvious ones like a missing semicolon to more complex issues like unresolved methods in JavaScript and mismatching types when type info is available.
+
+
+Git
+Git is a base for websites such as github and other sites that use branching repos that all stem from the same underlying code but have indivitual changes made by a variety of users
+
+github
+is a website that provides a clear UI to see repos and changes that have been made to them, while you do need an account to use github you technically do not need to use there website as it is only for the UI
 <h1> Glossary</h1>
 <ul>
 <li><B>Branch</B>:  reates a branch for the repo different branches all stem from the same idea</li>
